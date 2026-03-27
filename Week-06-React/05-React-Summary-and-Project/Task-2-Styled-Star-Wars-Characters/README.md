@@ -3,7 +3,7 @@
 # Task 2: Day Project - Styled Star Wars Characters with Movies
 
 ## Task Description
-In this final task of the week, you will enhance the Star Wars application by fetching movie data. The goal is to display the films each character appeared in, integrated directly into their profile according to the design. You will also refactor the Karakter component using styled-components for a professional finish.
+In this final task of the week, you will enhance the Star Wars application by fetching movie data. The goal is to display the films each character appeared in, integrated directly into their profile according to the design (https://i.ibb.co/JvBqL9b/s6d5-project-design.png). You will also refactor the Karakter component using styled-components for a professional finish.
 
 **Requirements:**
 - Advanced Data Fetching: Fetch film data from the dedicated movies endpoint and synchronize it with the corresponding characters.
@@ -32,7 +32,7 @@ Style Encapsulation: By refactoring with styled-components, I practiced building
 # Görev 2: Gün Projesi - Styled-Components ile Star Wars Karakterleri ve Filmler
 
 ## Görev Tanımı
-Haftanın bu son görevinde, Star Wars uygulamasını film verilerini de içerecek şekilde geliştiriyorsun. Amacın, her karakterin oynadığı filmleri çekip tasarımda belirtilen şekilde profillerine eklemek. Ayrıca Karakter bileşenini styled-components ile baştan tasarlayarak profesyonel bir görünüme kavuşturacaksın.
+Haftanın bu son görevinde, Star Wars uygulamasını film verilerini de içerecek şekilde geliştiriyorsun. Amacın, her karakterin oynadığı filmleri çekip tasarımda belirtilen şekilde profillerine eklemek ("https://i.ibb.co/JvBqL9b/s6d5-project-design.png"). Ayrıca Karakter bileşenini styled-components ile baştan tasarlayarak profesyonel bir görünüme kavuşturacaksın.
 
 **Beklenenler:**
 - Gelişmiş Veri Çekme: Filmler endpoint'inden verileri çek ve bu verileri ilgili karakterlerle eşleştir.
